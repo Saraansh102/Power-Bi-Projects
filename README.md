@@ -22,6 +22,11 @@
 
 ![image](https://github.com/user-attachments/assets/217ff64f-4b1d-4eba-af85-8c7cb0144b84)
 
+## 7) School Salary Analysis Dashboard
+
+![image](https://github.com/user-attachments/assets/24068a32-6e82-47e9-b328-a3d621f5679b)
+
+
 
 
 
